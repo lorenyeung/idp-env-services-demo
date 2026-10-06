@@ -1,1 +1,1 @@
-{"services":["cloud_run","gke"]}
+{"services":["cloud_run","pubsub"]}
