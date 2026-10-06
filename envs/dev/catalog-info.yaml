@@ -10,6 +10,6 @@ metadata:
   description: Services enabled in dev
   links:
     - title: Edit services
-      url: https://loren.harness.io/ng/account/WqS38aeyQjayoqy6mzwceA/module/idp/create/templates/account.default.technical_exercise/services_update?formData=%7B%22environment%22%3A%22dev%22%2C%22services%22%3A%5B%22cloud_run%22%2C%22gke%22%5D%7D
+      url: https://loren.harness.io/ng/account/WqS38aeyQjayoqy6mzwceA/module/idp/create/templates/account.default.technical_exercise/services_update?formData=%7B%22environment%22%3A%22dev%22%2C%22services%22%3A%5B%22cloud_run%22%2C%22pubsub%22%5D%7D
 spec:
   lifecycle: experimental
