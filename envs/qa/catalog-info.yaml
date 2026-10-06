@@ -1,0 +1,15 @@
+apiVersion: harness.io/v1
+kind: Component
+type: service
+identifier: env_services_qa
+name: env-services-qa
+owner: group:account/HSF_Admins
+orgIdentifier: default
+projectIdentifier: technical_exercise
+metadata:
+  description: Services enabled in qa
+  links:
+    - title: Edit services
+      url: https://example.invalid/test
+spec:
+  lifecycle: experimental
